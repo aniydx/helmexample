@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  helmexample:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2024-05-02T21:41:12.612326808+08:00"
+    description: A Helm chart for Kubernetes
+    digest: d7138796ed024011750ee1bf1c8f55a349c39a4b8fc3dc80ae7ed6b1ce4a7010
+    name: helmexample
+    type: application
+    version: 0.1.0
+    home: https://aniydx.github.io/helmexample
+    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    kubeVersion: ^1.10.0-0
+    keywords:
+    - helmexample
+    - elastic
+    - vector
+    - search
+    - deploy
+    maintainers:
+    - email: aniydx@qq.com
+      name: bob
+      url: https://aniydx.github.io/helmexample
+    sources:
+    - https://github.com/aniydx/helmexample
+    urls:
+    - https://github.com/aniydx/helmexample/raw/main/charts/helmexample-0.1.0.tgz
+generated: "2024-05-02T21:41:12.611571505+08:00"
